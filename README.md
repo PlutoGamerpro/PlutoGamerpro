@@ -6,7 +6,7 @@
 - 🏃‍♂️ Runner with Team R, Sparta’s sub-elite<br>
 
 🔗 Check out my Steam page here: [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)<br>
-🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [YouTube Channel](https://www.youtube.com/@FruitSwitch)<br>
+🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [YouTube Channel](https://www.youtube.com/@FruitSwitchTeam)<br>
 🎉 Fun Fact: My game is almost ready for release!
 
 
