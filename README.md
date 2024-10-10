@@ -48,12 +48,25 @@
   </table>
 
 
-# 💪 Strengths
-| Strength                      | Description                                               |
-|-------------------------------|-----------------------------------------------------------|
-| ![](https://img.shields.io/badge/Never%20Give%20Up-%E2%9A%A1%EF%B8%8F-red)  | No matter the challenges I face, I push through and find solutions. |
-| ![](https://img.shields.io/badge/Always%20Striving%20for%20Excellence-%F0%9F%8C%B1-yellow) | I take pride in delivering quality work and giving my best in everything I do. |
-| ![](https://img.shields.io/badge/Learning%20from%20Failures-%F0%9F%93%9A-blue)   | I thrive on challenges! When things don't go as planned, I see it as an opportunity to learn something new. |
+<h1>💪 Strengths</h1>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <p><strong>💪 Never Give Up</strong></p>
+      <p style="font-style: italic;">No matter the challenges I face, I push through and find solutions.</p>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <p><strong>🏆 Always Striving for Excellence</strong></p>
+      <p style="font-style: italic;">I take pride in delivering quality work and giving my best in everything I do.</p>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <p><strong>📚 Learning from Failure</strong></p>
+      <p style="font-style: italic;">I thrive on challenges! When things don't go as planned, I see it as an opportunity to learn something new.</p>
+    </td>
+  </tr>
+</table>
+
+
 
 # 🌍 Languages
 | Language      | Proficiency                                        |
@@ -61,9 +74,6 @@
 | <img src="https://www.svgrepo.com/show/405466/flag-for-flag-denmark.svg" alt="Danish Flag" style="width:20px; height:20px;"> DK **Danish**    | Native speaker                                     |
 | <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English Flag" style="width:20px; height:20px;"> US **English**   | Conversational, not fluent                         |
 | <img src="https://www.svgrepo.com/show/248829/brazil.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> BR **Portuguese**| Basic conversational skills, not fluent          |
-
-
-
 
 
 
