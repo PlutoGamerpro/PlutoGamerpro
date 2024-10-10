@@ -3,9 +3,11 @@
 
 
 ## 🌐 Socials:
-[![Steam](https://img.shields.io/badge/Steam-%2300BFFF.svg?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com/app/2248480/Fruit_Switch/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fruitswitchdeveloper) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CodeByScript)
+[![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/)
+[![Discord](https://img.icons8.com/?size=48&id=2mIgusGquJFz&format=png)](https://discord.gg/fruitswitchdeveloper) 
+[![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript)
+
+
 
 # 💻Frameworks And Tech Stack :
 <table>
