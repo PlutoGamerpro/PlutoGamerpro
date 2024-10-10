@@ -43,8 +43,8 @@
     <td>🐳 Docker</td>
   </tr>
     <tr>
-     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" / width=60px"></td>
-  </tr>
+        <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px"></a></td>
+     </tr>
   </table>
 
 
