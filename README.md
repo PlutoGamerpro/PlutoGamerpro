@@ -17,6 +17,7 @@
 | ![](https://img.shields.io/badge/Always%20Striving%20for%20Excellence-%F0%9F%8C%B1-yellow) | I take pride in delivering quality work and giving my best in everything I do. |
 | ![](https://img.shields.io/badge/Learning%20from%20Failures-%F0%9F%93%9A-blue)   | I thrive on challenges! When things don't go as planned, I see it as an opportunity to learn something new. |
 
+
 # 🏡 Languages
 | Language      | Proficiency                                        |
 |---------------|----------------------------------------------------|
