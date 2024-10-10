@@ -54,8 +54,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PlutoGamerpro&theme=dark&hide_border=false)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlutoGamerpro&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+
 
 
 
