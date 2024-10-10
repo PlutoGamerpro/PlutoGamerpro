@@ -10,14 +10,14 @@
 # 💻Frameworks And Tech Stack :
 <table>
   <tr>
-    <td>Unity</td>
-    <td>.NET</td>
-    <td>POSTMAN</td>
-    <td>C#</td>
-    <td>MS SQL</td>
-    <td>HTML5</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
+    <td><b>Unity</b></td>
+    <td><b>.NET</b></td>
+    <td><b>Postman</b></td>
+    <td><b>C#</b></td>
+    <td><b>MS SQL</b></td>
+    <td><b>HTML</b></td>
+    <td><b>CSS</b></td>
+    <td><b>JavaScript</b></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" / Width=60px"></td>
@@ -33,7 +33,7 @@
 
 
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 # 💪 Strengths
