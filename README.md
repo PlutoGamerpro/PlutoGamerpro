@@ -62,19 +62,14 @@
 # 🏡 Languages
 | Language      | Proficiency                                        |
 |---------------|----------------------------------------------------|
-| <img src="https://www.svgrepo.com/show/405466/flag-for-flag-denmark.svg" alt="Danish Flag" style="width:20px; height:20px;"> **Danish**    | Native speaker                                     |
-| <img src="path/to/uk-flag.svg" alt="English Flag" style="width:20px; height:20px;"> **English**   | Conversational, not fluent                         |
-| <img src="https://www.svgrepo.com/show/405585/flag-for-flag-portugal.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> **Portuguese**| Basic conversational skills, not fluent           |
+| <img src="https://www.svgrepo.com/show/405466/flag-for-flag-denmark.svg" alt="Danish Flag" style="width:20px; height:20px;"> DK **Danish**    | Native speaker                                     |
+| <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English Flag" style="width:20px; height:20px;"> GB **English**   | Conversational, not fluent                         |
+| <img src="https://www.svgrepo.com/show/248829/brazil.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> BR **Portuguese**| Basic conversational skills, not fluent          |
 
 
 
 
-# 🏡 Languages
-| Language      | Proficiency                                        |
-|---------------|----------------------------------------------------|
-| 🇩🇰 **Danish**    | Native speaker                                     |
-| 🇬🇧 **English**   | Conversational, not fluent                         |
-| 🇧🇷 **Portuguese**| Basic conversational skills, not fluent           |
+
 
 
 
