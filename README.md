@@ -102,11 +102,9 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Code-By-Script&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Code-By-Script&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PlutoGamerpro&icon=0&color=0)](https://visitcount.itsvg.in)
