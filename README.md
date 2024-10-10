@@ -89,10 +89,10 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 | <img src="https://www.svgrepo.com/show/248829/brazil.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> BR **Portuguese**| Basic conversational skills, not fluent     
 
 
-## <h3> 🌐 Social Links: </h3>      
+## <h3> 🌐 Fruit Switch Social Media: </h3>      
 | **Steam** | **Twitter** | **Tutorials**|
 |-----------|-------------|--------------|
-| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) |
+| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
 
 
 # 📊 GitHub Stats:
