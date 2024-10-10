@@ -10,25 +10,23 @@
 🤔 Ask me about: Game development 🕹️ C# programming 💻<br>
 🎉 Fun Fact: My game is almost ready for release!
 
-## 🌐 Social Links:      
-
-| **Steam** | **Twitter** | **Tutorials**|
-|-----------|-------------|--------------|
-| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) |
 
 
 
-# 💻Frameworks And Tech Stack :
+
+
+
+<h1> 💻Frameworks And Tech Stack : </h1>
 <table>
   <tr>
-    <td><b>Unity</b></td>
-    <td><b>.NET</b></td>
-    <td><b>Postman</b></td>
-    <td><b>C#</b></td>
-    <td><b>MS SQL</b></td>
-    <td><b>HTML</b></td>
-    <td><b>CSS</b></td>
-    <td><b>JavaScript</b></td>
+    <td><b>🎮Unity</b></td>
+    <td><b>🌐.NET</b></td>
+    <td><b>📮Postman</b></td>
+    <td><b>🧑‍💻C#</b></td>
+    <td><b>🐬MS SQL</b></td>
+    <td><b>📝HTML</b></td>
+    <td><b>🎨CSS</b></td>
+    <td><b>💻JavaScript</b></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" / Width=60px"></td>
@@ -43,8 +41,15 @@
 </table>
 
 
-
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2>🚀 DevOps tools and programs:</h2>
+<table>
+  <tr>
+    <td>🐳 Docker</td>
+  </tr>
+    <tr>
+     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" / width=60px"></td>
+  </tr>
+  </table>
 
 
 # 💪 Strengths
@@ -63,6 +68,8 @@
 | 🇧🇷 **Portuguese**| Basic conversational skills, not fluent           |
 
 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
 
@@ -76,6 +83,10 @@
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 
+## <h3> 🌐 Social Links: </h3>      
+| **Steam** | **Twitter** | **Tutorials**|
+|-----------|-------------|--------------|
+| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) |
 
 
 
