@@ -80,14 +80,18 @@
 
 
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
 
 
 
 
+# 🍉 Fruit Switch: A Colorful Challenge
 
+Fruit Switch is a fun and engaging puzzle game where players match and switch colorful fruits to clear levels and achieve high scores. With vibrant graphics and a variety of fruit types, each level presents unique challenges and puzzles that test your strategic thinking and quick reflexes. 
 
+As you progress through the game, you'll encounter power-ups and special fruit combinations that can help you overcome tricky obstacles. Fruit Switch is perfect for players of all ages who enjoy casual gaming with a twist. Dive into this fruity adventure and see how many levels you can conquer!
 
 
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
