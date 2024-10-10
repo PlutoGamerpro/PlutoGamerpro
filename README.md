@@ -1,6 +1,14 @@
 # 💫 About Me:
-🔗 Check out my Steam page here: https://store.steampowered.com/app/2248480/Fruit_Switch/<br>🔭 Currently working on Fruit Switch 🍉🍊! Follow my journey on YouTube: https://www.youtube.com/@FruitSwitch<br>🤔 Ask me about: Game development 🕹️ C# programming 💻<br>🎉Fun Fact: My game is almost ready for release!
 
+- 👋 Creator of **Fruit Switch** 🍉🍊<br>
+- 💻 Passionate about coding & game development<br>
+- 📚 Providing tutorials for fellow learners<br>
+- 🏃‍♂️ Runner with Team R, Sparta’s sub-elite<br>
+
+🔗 Check out my Steam page here: [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)<br>
+🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [YouTube Channel](https://www.youtube.com/@FruitSwitch)<br>
+🤔 Ask me about: Game development 🕹️ C# programming 💻<br>
+🎉 Fun Fact: My game is almost ready for release!
 
 ## 🌐 Socials:
 [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/)
