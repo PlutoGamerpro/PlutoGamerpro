@@ -68,22 +68,6 @@
 
 
 
-# 🌍 Languages
-| Language      | Proficiency                                        |
-|---------------|----------------------------------------------------|
-| <img src="https://www.svgrepo.com/show/405466/flag-for-flag-denmark.svg" alt="Danish Flag" style="width:20px; height:20px;"> DK **Danish**    | Native speaker                                     |
-| <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English Flag" style="width:20px; height:20px;"> US **English**   | Conversational, not fluent                         |
-| <img src="https://www.svgrepo.com/show/248829/brazil.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> BR **Portuguese**| Basic conversational skills, not fluent          |
-
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
-
 
 
 
@@ -97,12 +81,22 @@ As you progress through the game, you'll encounter power-ups and special fruit c
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 
+# 🌍 Languages
+| Language      | Proficiency                                        |
+|---------------|----------------------------------------------------|
+| <img src="https://www.svgrepo.com/show/405466/flag-for-flag-denmark.svg" alt="Danish Flag" style="width:20px; height:20px;"> DK **Danish**    | Native speaker                                     |
+| <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English Flag" style="width:20px; height:20px;"> US **English**   | Conversational, not fluent                         |
+| <img src="https://www.svgrepo.com/show/248829/brazil.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> BR **Portuguese**| Basic conversational skills, not fluent     
+
+
 ## <h3> 🌐 Social Links: </h3>      
 | **Steam** | **Twitter** | **Tutorials**|
 |-----------|-------------|--------------|
 | [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) |
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Code-By-Script&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
