@@ -10,10 +10,11 @@
 🤔 Ask me about: Game development 🕹️ C# programming 💻<br>
 🎉 Fun Fact: My game is almost ready for release!
 
-## 🌐 Socials:
-[![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/)
-[![Discord](https://img.icons8.com/?size=48&id=2mIgusGquJFz&format=png)](https://discord.gg/fruitswitchdeveloper) 
-[![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript)
+## 🌐 Social Links:      
+
+| **Steam** | **Twitter** | **Tutorials**|
+|-----------|-------------|--------------|
+| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) |
 
 
 
