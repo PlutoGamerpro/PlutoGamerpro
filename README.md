@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About MSUUUGUGUGUGUGe:
 
 - 👋 Creator of **Fruit Switch** 🍉🍊<br>
 - 💻 Passionate about coding & game development<br>
