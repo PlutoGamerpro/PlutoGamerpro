@@ -7,10 +7,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fruitswitchdeveloper) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CodeByScript)
 
-# 💻 Tech Stack And Frameworks:
+# 💻Frameworks And Tech Stack :
 <table>
   <tr>
     <td>Unity</td>
+    <td>.NET</td>
     <td>POSTMAN</td>
     <td>C#</td>
     <td>MS SQL</td>
@@ -20,6 +21,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" / Width=60px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" / Width=60px"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" / Width=60px"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" / Width=60px"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" / Width=60px"></td>
