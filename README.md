@@ -16,24 +16,35 @@
 <table>
 <tr>
     <td><b class="tech-name">🎮Unity</b><span class="underline"></span></td>
-    <td><b class="tech-name">🌐.NET</b><span class="underline"></span></td>
-    <td><b class="tech-name">📮Postman</b><span class="underline"></span></td>
     <td><b class="tech-name">🧑‍💻C#</b><span class="underline"></span></td>
+        <td><b class="tech-name">🐍Pythoon</b><span class="underline"></span></td>
+     <td><b class="tech-name">🌐.NET</b><span class="underline"></span></td>
     <td><b class="tech-name">🐬MS SQL</b><span class="underline"></span></td>
+   </tr>
+    <td><a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60px"></a></td>
+       <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"></a></td>
+       <td><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px"></a></td>
+    <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
+    <td><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></a></td>
+
+    
+  </tr>
+</table>
+<h1>Proficient Developer</h1>
+<table>
+<tr>
+    <td><b class="tech-name">📮Postman</b><span class="underline"></span></td>
     <td><b class="tech-name">📝HTML</b><span class="underline"></span></td>
     <td><b class="tech-name">🎨CSS</b><span class="underline"></span></td>
     <td><b class="tech-name">💻JavaScript</b><span class="underline"></span></td>
   </tr>
-    <td><a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60px"></a></td>
-    <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
     <td><a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60px"></a></td>
-    <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"></a></td>
+       <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"></a></td>
   </tr>
 </table>
+
 
 
 
