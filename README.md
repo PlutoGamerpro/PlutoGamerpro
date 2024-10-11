@@ -1,3 +1,23 @@
+# Welcome to My GitHub Profile! 🌟
+
+## 🗺️ Navigating My Projects
+
+In my GitHub profile, I've organized my work into different categories. Each category contains projects with tasks and work related to various topics. You can find all my completed tasks categorized below.
+
+
+### My Projects:
+- **C# Tasks** 📊  
+- **SQL Tasks** 📊  
+- **HTML/CSS Tasks** 🌐  
+- **API Tasks** 🔗  
+- **My Wikis** 📚  
+- **UML Tasks** 📝   
+
+## 🚀 Explore My Work!
+
+**You can explore all my projects and discover more of my work by visiting my [Projects](https://github.com/PlutoGamerpro?tab=stars), where I have organized my repositories into various categories!**
+
+
 # 💫 About Me:
 
 - 👋 Creator of **Fruit Switch** 🍉🍊<br>
@@ -57,6 +77,7 @@
         <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px"></a></td>
      </tr>
   </table>
+
 
 
 <h1>💪 Strengths</h1>
