@@ -37,7 +37,7 @@ The code for **Fruit Switch** is not available for sharing, as it is part of a p
 
 
 
-<h1>💻 Frameworks And Tech Stack :</h1>
+<h1>💻 Frameworks And Tech Stack </h1>
 <table>
 <tr>
     <td><b class="tech-name">🎮Unity</b><span class="underline"></span></td>
