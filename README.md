@@ -6,8 +6,9 @@ In my GitHub profile, I've organized my work into different categories. Each cat
 
 
 ### My Projects:
-- **C# Tasks** 📊  
-- **SQL Tasks** 📊  
+
+- **C# Tasks** 💻 
+- **SQL Tasks** 🗄️  
 - **HTML/CSS Tasks** 🌐  
 - **API Tasks** 🔗  
 - **My Wikis** 📚  
