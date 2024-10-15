@@ -2,7 +2,7 @@
 
 ## 🗺️ Navigating My Projects
 
-In my GitHub profile, I've organized my work into different categories. Each category contains projects with tasks and work related to various topics. You can find all my completed tasks categorized below.
+I've organized my work into categories. Each contains projects related to different topics. Explore them below!
 
 
 
