@@ -10,12 +10,12 @@ In my GitHub profile, I've organized my work into different categories. Each cat
 
 ### My Projects:
 
-- **[C# Tasks](https://github.com/PlutoGamerpro/CSharp-Tasks)** 💻
-- **[SQL Tasks](https://github.com/PlutoGamerpro/SQL-Tasks)** 🗄️
+- **[C# Tasks](https://github.com/stars/PlutoGamerpro/lists/c-opgaver)** 💻
+- **[SQL Tasks](https://github.com/stars/PlutoGamerpro/lists/sql-opgaver)** 🗄️
 - **[HTML/CSS Tasks](https://github.com/PlutoGamerpro/HTML-CSS-Tasks)** 🌐
-- **[API Tasks](https://github.com/PlutoGamerpro/API-Tasks)** 🔗
-- **[My Wikis](https://github.com/PlutoGamerpro/My-Wikis)** 📚
-- **[UML Tasks](https://github.com/PlutoGamerpro/UML-Tasks)** 📝
+- **[API Tasks](https://github.com/stars/PlutoGamerpro/lists/api-opgaver)** 🔗
+- **[My Wikis](https://github.com/stars/PlutoGamerpro/lists/mine-wikier)** 📚
+- **[UML Tasks](https://github.com/stars/PlutoGamerpro/lists/uml-opgaver)** 📝
 
 ## 🚀 Explore My Work!
 
