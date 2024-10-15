@@ -29,7 +29,8 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 
 # 💫 About Me:
 
-- 👋 Creator of **Fruit Switch** 🍉🍊
+- 👋 **Creator of [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)** 🍉🍊
+- 💻 **Passionate about coding & game development**
 - 💻 Passionate about coding & game development
 - 📚 Providing tutorials for fellow learners
 - 🏃‍♂️ Runner with Team R, Sparta’s sub-elite
@@ -110,16 +111,15 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 </table>
 
 
-
-
-
-
 # 🍉 Fruit Switch: A Colorful Challenge
 
-Fruit Switch is a fun and engaging puzzle game where players match and switch colorful fruits to clear levels and achieve high scores. With vibrant graphics and a variety of fruit types, each level presents unique challenges and puzzles that test your strategic thinking and quick reflexes. 
+*Fruit Switch* is developed using Unity and C#. It features:
 
-As you progress through the game, you'll encounter power-ups and special fruit combinations that can help you overcome tricky obstacles. Fruit Switch is perfect for players of all ages who enjoy casual gaming with a twist. Dive into this fruity adventure and see how many levels you can conquer!
+- **Vibrant Graphics:** Engaging visuals that captivate players.
+- **Challenging Puzzles:** Levels that test strategic thinking.
+- **Power-ups:** Special combinations to overcome obstacles.
 
+*Stay tuned for the official release!*
 
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
