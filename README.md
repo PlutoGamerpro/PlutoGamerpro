@@ -28,10 +28,12 @@ The code for **Fruit Switch** is not available for sharing, as it is part of a p
 
 # 💫 About Me:
 
-- 👋 Creator of **Fruit Switch** 🍉🍊<br>
-- 💻 Passionate about coding & game development<br>
-- 📚 Providing tutorials for fellow learners<br>
-- 🏃‍♂️ Runner with Team R, Sparta’s sub-elite<br>
+- 👋 Creator of **Fruit Switch** 🍉🍊
+- 💻 Passionate about coding & game development
+- 📚 Providing tutorials for fellow learners
+- 🏃‍♂️ Runner with Team R, Sparta’s sub-elite
+- 🌱 Always eager to learn new technologies
+
 
 🔗 Check out my Steam page here: [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)<br>
 🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [YouTube Channel](https://www.youtube.com/@FruitSwitchTeam)<br>
