@@ -21,8 +21,9 @@ I've organized my work into categories. Each contains projects related to differ
 
 **You can explore all my projects and discover more of my work by visiting my [Projects](https://github.com/PlutoGamerpro?tab=stars), where I have organized my repositories into various categories!**
 
-## Important Note:
-The code for **Fruit Switch** is not available for sharing, as it is part of a professional project and holds significant value.
+## 📢 Note
+
+The code for **Fruit Switch** is proprietary, but you can experience the game on [Steam](https://store.steampowered.com/app/2248480/Fruit_Switch/) and follow the journey on [YouTube](https://www.youtube.com/@FruitSwitchTeam)!
 
 *Feel free to check out the other projects listed above!*
 
