@@ -113,13 +113,14 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 
 # 🍉 Fruit Switch: A Colorful Challenge
 
-*Fruit Switch* is developed using Unity and C#. It features:
+*Fruit Switch* is developed using **Unity** and **C#**, featuring:
 
-- **Vibrant Graphics:** Engaging visuals that captivate players.
-- **Challenging Puzzles:** Levels that test strategic thinking.
-- **Power-ups:** Special combinations to overcome obstacles.
-
-*Stay tuned for the official release!*
+- **99% will Fail this challenge...**
+- **This will be the Toughest challenge you'll face this year!**
+- **Navigate through 23 brutal levels.**
+- **One small mistake? and you’re back to the beginning.**
+- **Passion is key, frustration is guaranteed.**
+- **Good luck… you'll definitely need it...**
 
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
