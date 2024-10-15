@@ -5,14 +5,17 @@
 In my GitHub profile, I've organized my work into different categories. Each category contains projects with tasks and work related to various topics. You can find all my completed tasks categorized below.
 
 
+
+
+
 ### My Projects:
 
-- **C# Tasks** 💻 
-- **SQL Tasks** 🗄️  
-- **HTML/CSS Tasks** 🌐  
-- **API Tasks** 🔗  
-- **My Wikis** 📚  
-- **UML Tasks** 📝   
+- **[C# Tasks](https://github.com/PlutoGamerpro/CSharp-Tasks)** 💻
+- **[SQL Tasks](https://github.com/PlutoGamerpro/SQL-Tasks)** 🗄️
+- **[HTML/CSS Tasks](https://github.com/PlutoGamerpro/HTML-CSS-Tasks)** 🌐
+- **[API Tasks](https://github.com/PlutoGamerpro/API-Tasks)** 🔗
+- **[My Wikis](https://github.com/PlutoGamerpro/My-Wikis)** 📚
+- **[UML Tasks](https://github.com/PlutoGamerpro/UML-Tasks)** 📝
 
 ## 🚀 Explore My Work!
 
