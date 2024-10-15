@@ -25,7 +25,7 @@ I've organized my work into categories. Each contains projects related to differ
 
 The code for **Fruit Switch** is proprietary, but you can experience the game on [Steam](https://store.steampowered.com/app/2248480/Fruit_Switch/) and follow the journey on [YouTube](https://www.youtube.com/@FruitSwitchTeam)!
 
-*Feel free to check out the other projects listed above!*
+
 
 # 💫 About Me:
 
