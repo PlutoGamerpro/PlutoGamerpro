@@ -71,7 +71,7 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
     
   </tr>
 </table>
-<h1>Proficient Developer</h1>
+## 💻 Proficient Developer ##
 <table>
 <tr>
     <td><b class="tech-name">📮Postman</b><span class="underline"></span></td>
