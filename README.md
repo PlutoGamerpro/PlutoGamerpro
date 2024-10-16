@@ -5,14 +5,15 @@
 I've organized my work into categories. Each contains projects related to different topics. Explore them below!
 
 
-[💫 About Me](#-about-me)
-[💻 Frameworks And Tech Stack](#-frameworks-and-tech-stack)
-[🔮 Proficient Developer](#-proficient-developer)
-[🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
-[🌐 Fruit Switch Social Media](#fruit-switch-social-media)
-[📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
-[📊 GitHub Stats](#gitHub-stats)
-[✍️ Random Dev Quote](#-random-dev-quote)
+- [💫 About Me](#-about-me)
+- [💻 Frameworks And Tech Stack](#-frameworks-and-tech-stack)
+- [🔮 Proficient Developer](#-proficient-developer)
+- [🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
+- [🌐 Fruit Switch Social Media](#fruit-switch-social-media)
+- [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
+- [📊 GitHub Stats](#github-stats)
+- [✍️ Random Dev Quote](#-random-dev-quote)
+
 
 
 
