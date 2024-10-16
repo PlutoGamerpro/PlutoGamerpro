@@ -7,7 +7,7 @@ I've organized my work into categories. Each contains projects related to differ
 
 - [💫 About Me](#-about-me)
 - [💻 Frameworks And Tech Stack](#-frameworks-and-tech-stack)
-- [🔮 Proficient Developer](#-proficient-developer)
+- [💻 Proficient Developer](#-proficient-developer)
 - [🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
 - [🌐 Fruit Switch Social Media](#-fruit-switch-social-media)
 - [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
