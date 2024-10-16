@@ -4,7 +4,7 @@
 
 I've organized my work into categories. Each contains projects related to different topics. Explore them below!
 
-Check out my info here: [About Me](#-about-me)
+
 [💫 About Me](#-about-me)
 💻 Tutorial Topics
 🔮 Future Tutorial Topics
