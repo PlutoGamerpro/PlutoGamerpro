@@ -12,7 +12,7 @@ I've organized my work into categories. Each contains projects related to differ
 - [🌐 Fruit Switch Social Media](#-fruit-switch-social-media)
 - [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
 - [📊 GitHub Stats](#-github-stats)
-- [✍️ Random Dev Quote](#-random-dev-quote)
+
 
 
 
