@@ -52,8 +52,8 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 
 
 
+# 💻 Frameworks And Tech Stack
 
-<h1>💻 Frameworks And Tech Stack </h1>
 <table>
 <tr>
     <td><b class="tech-name">🎮Unity</b><span class="underline"></span></td>
@@ -71,7 +71,7 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
     
   </tr>
 </table>
-## 💻 Proficient Developer ##
+<h1> 💻 Proficient Developer  </h1>
 <table>
 <tr>
     <td><b class="tech-name">📮Postman</b><span class="underline"></span></td>
