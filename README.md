@@ -9,9 +9,9 @@ I've organized my work into categories. Each contains projects related to differ
 - [💻 Frameworks And Tech Stack](#-frameworks-and-tech-stack)
 - [🔮 Proficient Developer](#-proficient-developer)
 - [🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
-- [🌐 Fruit Switch Social Media](#fruit-switch-social-media)
+- [🌐 Fruit Switch Social Media](#-fruit-switch-social-media)
 - [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
-- [📊 GitHub Stats](#github-stats)
+- [📊 GitHub Stats](#-github-stats)
 - [✍️ Random Dev Quote](#-random-dev-quote)
 
 
@@ -142,7 +142,7 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 | <img src="https://www.svgrepo.com/show/248829/brazil.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> BR **Portuguese**| Basic conversational skills, not fluent     
 
 
-## <h3> 🌐 Fruit Switch Social Media: </h3>      
+##  🌐 Fruit Switch Social Media:       
 | **Steam** | **Twitter** | **YouTube** |
 |-----------|-------------|--------------|
 | [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitchTeam)
