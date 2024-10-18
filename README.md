@@ -184,12 +184,5 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PlutoGamerpro/PlutoGamerpro/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 
