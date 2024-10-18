@@ -1,9 +1,9 @@
 # Welcome to My GitHub Profile! 🌟
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+---
+[![](https://visitcount.itsvg.in/api?id=PlutoGamerpro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pluto+Gamerpro!;" />
 </h1>
 
 <h3 align="center"></h3>
@@ -166,4 +166,3 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PlutoGamerpro&icon=0&color=0)](https://visitcount.itsvg.in)
