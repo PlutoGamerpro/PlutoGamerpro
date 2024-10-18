@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+- [🗺️ Project-Categories](#-project-categories)
 - [💫 About Me](#-about-me)
 - [💻 Frameworks and Tech Stack](#-frameworks-and-tech-stack)
 - [💻 Proficient Developer](#-proficient-developer)
@@ -19,9 +20,6 @@
 - [🌐 Fruit Switch Social Media](#-fruit-switch-social-media)
 - [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
 - [📊 GitHub Stats](#-github-stats)
-- [🗺️ Project Organization](#-project-organization)
-- [🚀 Explore My Work!](#-explore-my-work)
-- [📢 Note](#-note)
 
 
 
