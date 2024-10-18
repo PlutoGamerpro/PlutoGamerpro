@@ -143,11 +143,13 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 
+| How To Code Your First Program | Python Theory for Beginners | 99.99% Cant Beat This Game... |
+|---------|---------|---------|
+| [![How To Code Your First Program](https://ytcards.demolab.com/?id=Rt_wZhfOlXU&title=How+To+Code+Your+First+Program&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "How To Code Your First Program")](https://www.youtube.com/watch?v=Rt_wZhfOlXU) | [![Python Theory for Beginners](https://ytcards.demolab.com/?id=Is1gG4eg6ns&title=Python+Theory+for+Beginners&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "Python Theory for Beginners")](https://www.youtube.com/watch?v=Is1gG4eg6ns) | [![99.99% Cant Beat This Game...](https://ytcards.demolab.com/?id=1cg6asDpq9s&title=99.99%25+Cant+Beat+This+Game...&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "99.99% Cant Beat This Game...")](https://www.youtube.com/watch?v=1cg6asDpq9s) |
 
 
-| How To Code Your First Program | Python Theory for Beginners |
-|---------|---------|
-| [![How To Code Your First Program](https://ytcards.demolab.com/?id=Rt_wZhfOlXU&title=How+To+Code+Your+First+Program&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "How To Code Your First Program")](https://www.youtube.com/watch?v=Rt_wZhfOlXU) | [![Python Theory for Beginners](https://ytcards.demolab.com/?id=Is1gG4eg6ns&title=Python+Theory+for+Beginners&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "Python Theory for Beginners")](https://www.youtube.com/watch?v=Is1gG4eg6ns) |
+
+
 
 
 
