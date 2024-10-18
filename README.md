@@ -143,6 +143,14 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 
+
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![How To Code Your First Program](https://ytcards.demolab.com/?id=Rt_wZhfOlXU&title=How+To+Code+Your+First+Program&lang=en&timestamp=1697155200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "How To Code Your First Program")](https://www.youtube.com/watch?v=Rt_wZhfOlXU)                           
+<!-- END YOUTUBE-CARDS -->
+
+
+
 # 🌍 Languages
 | Language      | Proficiency                                        |
 |---------------|----------------------------------------------------|
