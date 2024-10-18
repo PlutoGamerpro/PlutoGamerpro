@@ -12,7 +12,6 @@
 
 ## Table of Contents
 
-- [🗺️ Project-Categories](#-project-categories)
 - [💫 About Me](#-about-me)
 - [💻 Frameworks and Tech Stack](#-frameworks-and-tech-stack)
 - [💻 Proficient Developer](#-proficient-developer)
