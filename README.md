@@ -145,12 +145,10 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 
 
-[![How To Code Your First Program](https://ytcards.demolab.com/?id=Rt_wZhfOlXU&title=How+To+Code+Your+First+Program&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "How To Code Your First Program")](https://www.youtube.com/watch?v=Rt_wZhfOlXU)
+| How To Code Your First Program | Python Theory for Beginners |
+|---------|---------|
+| [![How To Code Your First Program](https://ytcards.demolab.com/?id=Rt_wZhfOlXU&title=How+To+Code+Your+First+Program&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "How To Code Your First Program")](https://www.youtube.com/watch?v=Rt_wZhfOlXU) | [![Python Theory for Beginners](https://ytcards.demolab.com/?id=Is1gG4eg6ns&title=Python+Theory+for+Beginners&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904 "Python Theory for Beginners")](https://www.youtube.com/watch?v=Is1gG4eg6ns) |
 
-
-
-
-<!-- END YOUTUBE-CARDS -->
 
 
 
