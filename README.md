@@ -10,7 +10,7 @@
 
 
 
-
+![Diagram Description](images/FruitSwitchIMAGE.png)
 
 
 - [💫 About Me](#-about-me)
