@@ -15,12 +15,12 @@
 
 I've organized my work into categories. Each contains projects related to different topics. Explore them below!
 
-- **[C# Tasks](https://github.com/stars/PlutoGamerpro/lists/c-opgaver)** 💻
-- **[SQL Tasks](https://github.com/stars/PlutoGamerpro/lists/sql-opgaver)** 🗄️
-- **[HTML/CSS Tasks](https://github.com/PlutoGamerpro/HTML-CSS-Tasks)** 🌐
-- **[API Tasks](https://github.com/stars/PlutoGamerpro/lists/api-opgaver)** 🔗
-- **[My Wikis](https://github.com/stars/PlutoGamerpro/lists/mine-wikier)** 📚
-- **[UML Tasks](https://github.com/stars/PlutoGamerpro/lists/uml-opgaver)** 📝
+- **[💻 C# Tasks](https://github.com/stars/PlutoGamerpro/lists/c-opgaver)** 
+- **[🗄️ SQL Tasks](https://github.com/stars/PlutoGamerpro/lists/sql-opgaver)** 
+- **[🌐 HTML/CSS Tasks](https://github.com/PlutoGamerpro/HTML-CSS-Tasks)** 
+- **[🔗 API Tasks](https://github.com/stars/PlutoGamerpro/lists/api-opgaver)** 
+- **[📚 MY Wikis](https://github.com/stars/PlutoGamerpro/lists/mine-wikier)** 
+- **[📝 UML Tasks](https://github.com/stars/PlutoGamerpro/lists/uml-opgaver)** 
 
 ## 🚀 Explore My Work!
 
