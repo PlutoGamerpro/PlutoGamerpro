@@ -24,18 +24,18 @@ I've organized my work into categories. Each contains projects related to differ
 
 ## 🚀 Explore My Work!
 
-**You can explore all my projects and discover more of my work by visiting my [Projects](https://github.com/PlutoGamerpro?tab=stars), where I have organized my repositories into various categories!**
+**You can explore all my projects 📝 and discover more of my work by visiting my 📝 [Projects](https://github.com/PlutoGamerpro?tab=stars), where I have organized my repositories into various categories!**
 
 ## 📢 Note
 
-The code for **Fruit Switch** is proprietary, but you can experience the game on [Steam](https://store.steampowered.com/app/2248480/Fruit_Switch/) and follow the journey on [YouTube](https://www.youtube.com/@FruitSwitchTeam)!
+The code for **Fruit Switch** is proprietary, but you can experience the game on 🎮 [Steam](https://store.steampowered.com/app/2248480/Fruit_Switch/) and follow the journey on  [YouTube](https://www.youtube.com/@FruitSwitchTeam)!
 
 
 
 # 💫 About Me:
 
 - 👋 **Creator of [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)** 🍉🍊
-- 💻 **Passionate about coding & game development**
+- 🎮 **Passionate about coding & game development**
 - 💻 Passionate about coding & game development
 - 📚 Providing tutorials for fellow learners
 - 🏃‍♂️ Runner with Team R, Sparta’s sub-elite
