@@ -1,9 +1,5 @@
 # Welcome to My GitHub Profile! 🌟
 
-## 🗺️ Navigating My Projects
-
-I've organized my work into categories. Each contains projects related to different topics. Explore them below!
-
 
 - [💫 About Me](#-about-me)
 - [💻 Frameworks And Tech Stack](#-frameworks-and-tech-stack)
@@ -15,9 +11,9 @@ I've organized my work into categories. Each contains projects related to differ
 
 
 
+## 🗺️ Navigating My Projects
 
-
-### My Projects:
+I've organized my work into categories. Each contains projects related to different topics. Explore them below!
 
 - **[C# Tasks](https://github.com/stars/PlutoGamerpro/lists/c-opgaver)** 💻
 - **[SQL Tasks](https://github.com/stars/PlutoGamerpro/lists/sql-opgaver)** 🗄️
