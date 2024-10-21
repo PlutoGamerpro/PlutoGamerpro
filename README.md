@@ -139,7 +139,7 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 </table>
 
 
-### 📊 My Coding Languages:
+### 📊 My Coding Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
 
 
