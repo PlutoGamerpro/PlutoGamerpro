@@ -17,7 +17,7 @@
 - [💻 Proficient Developer](#-proficient-developer)
 - [🚀 DevOps tools and programs](#-devops-tools-and-programs)
 - [💪 Strengths](#-strengths)
-- [📊 My Coding Languages](#-github-stats)
+- [📊 My Coding Languages](#-my-coding-languages)
 - [🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
 - [🌐 Fruit Switch Social Media](#-fruit-switch-social-media)
 - [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
