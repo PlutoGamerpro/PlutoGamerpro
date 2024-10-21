@@ -51,13 +51,13 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 - 👋 **Creator of [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)** 🍉🍊
 - 🎮 **Passionate about coding & game development**
 - 💻 Passionate about coding & game development
-- 📚 Providing tutorials for fellow learners
+- 📚 Providing tutorials for fellow learners [Code-By-Script](https://www.youtube.com/@CodeByScript)   
 - 🏃‍♂️ Runner with Team R, Sparta’s sub-elite
 - 🌱 Always eager to learn new technologies
 
 
-🔗 Check out my Steam page here: [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)<br>
-🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [YouTube Channel](https://www.youtube.com/@FruitSwitchTeam)<br>
+🔗 Check out my Steam page here: [Fruit Switch Steam](https://store.steampowered.com/app/2248480/Fruit_Switch/)<br>
+🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [Fruit Switch Youtube](https://www.youtube.com/@FruitSwitchTeam)<br>
 🎉 Fun Fact: My game is almost ready for release!
 
 
