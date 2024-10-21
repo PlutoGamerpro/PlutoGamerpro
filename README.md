@@ -120,7 +120,7 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 
 
 
-<h1>💪 Strengths</h1>
+# 💪 Strengths
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="padding: 10px; text-align: center;">
