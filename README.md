@@ -110,7 +110,7 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 <h2>🚀 DevOps tools and programs:</h2>
 <table>
   <tr>
-    <td> 1️⃣ 🐳 Docker</td>
+    <td><b class="tech-name"> 1️⃣ 🐳 Docker</b><span class="underline"></span></td>
   </tr>
     <tr>
         <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px"></a></td>
