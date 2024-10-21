@@ -15,10 +15,13 @@
 - [💫 About Me](#-about-me)
 - [💻 Frameworks and Tech Stack](#-frameworks-and-tech-stack)
 - [💻 Proficient Developer](#-proficient-developer)
+- [🚀 DevOps tools and programs](#-devops-tools-and-programs)
+- [💪 Strengths](#-strengths)
+- [📊 My Coding Languages](#-github-stats)
 - [🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
 - [🌐 Fruit Switch Social Media](#-fruit-switch-social-media)
 - [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
-- [📊 GitHub Stats](#-github-stats)
+
 
 
 
@@ -68,15 +71,17 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 <tr>
     <td><b class="tech-name"> 1️⃣ 🎮Unity</b><span class="underline"></span></td>
     <td><b class="tech-name"> 2️⃣ 🧑‍💻C#</b><span class="underline"></span></td>
-        <td><b class="tech-name"> 3️⃣ 🐍Pythoon</b><span class="underline"></span></td>
-     <td><b class="tech-name"> 4️⃣ 🌐.NET</b><span class="underline"></span></td>
-    <td><b class="tech-name"> 5️⃣ 🐬MS SQL</b><span class="underline"></span></td>
+     <td><b class="tech-name"> 3️⃣ 🌐.NET</b><span class="underline"></span></td>
+    <td><b class="tech-name"> 4️⃣ 🐬MS SQL</b><span class="underline"></span></td>
+        <td><b class="tech-name"> 5️⃣ 🐍Pythoon</b><span class="underline"></span></td>
+        
    </tr>
     <td><a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60px"></a></td>
        <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"></a></td>
+           <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
+             <td><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></a></td>
        <td><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px"></a></td>
-    <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
-    <td><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></a></td>
+   
 
     
   </tr>
@@ -85,15 +90,18 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 # 💻 Proficient Developer 
 <table>
 <tr>
-    <td><b class="tech-name"> 1️⃣ 📮Postman</b><span class="underline"></span></td>
-    <td><b class="tech-name"> 2️⃣ 📝HTML</b><span class="underline"></span></td>
-    <td><b class="tech-name"> 3️⃣ 🎨CSS</b><span class="underline"></span></td>
-    <td><b class="tech-name"> 4️⃣ 💻JavaScript</b><span class="underline"></span></td>
+      <td><b class="tech-name"> 1️⃣ 💻JavaScript</b><span class="underline"></span></td>
+        <td><b class="tech-name"> 2️⃣ 📝HTML</b><span class="underline"></span></td>
+        <td><b class="tech-name"> 3️⃣ 🎨CSS</b><span class="underline"></span></td>
+    <td><b class="tech-name"> 4️⃣ 📮Postman</b><span class="underline"></span></td>
+   
+   
   </tr>
-    <td><a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60px"></a></td>
+     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"></a>
        <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"></a></td>
+    <td><a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60px"></a></td>
+    </td>
   </tr>
 </table>
 
@@ -129,6 +137,10 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
     </td>
   </tr>
 </table>
+
+
+# 📊 My Coding Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
 
 
 # 🍉 Fruit Switch: A Colorful Challenge
@@ -169,8 +181,7 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 |-----------|
  [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoGamerpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)<br/>
+
 
 
 
