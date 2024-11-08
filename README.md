@@ -46,7 +46,7 @@ I've organized my work into categories, each containing projects related to diff
 
 The code for **Fruit Switch** is proprietary, but you can experience the game on 🎮 [Steam](https://store.steampowered.com/app/2248480/Fruit_Switch/) and follow the journey on  [YouTube](https://www.youtube.com/@FruitSwitchTeam)!
 
-![Steam Page Fruit Switch](images/FRUITSWITCH1.PNG)
+![Steam Page Fruit Switch](images/FRUITSWITCH1.png)
 
 
 # 💫 About Me:
