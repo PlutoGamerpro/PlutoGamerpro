@@ -14,7 +14,7 @@
 
 - [💫 About Me](#-about-me)
 - [💻 Frameworks and Tech Stack](#-frameworks-and-tech-stack)
-- [💻 Proficient Developer](#-proficient-developer)
+- [💻 Learning Developer](#-learning-developer)
 - [🚀 DevOps tools and programs](#-devops-tools-and-programs)
 - [💪 Strengths](#-strengths)
 - [📊 My Coding Languages](#-my-coding-languages)
@@ -87,7 +87,7 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
   </tr>
 </table>
 
-# 💻 Proficient Developer 
+# 💻 Learning Developer 
 <table>
 <tr>
       <td><b class="tech-name"> 1️⃣ 💻JavaScript</b><span class="underline"></span></td>
