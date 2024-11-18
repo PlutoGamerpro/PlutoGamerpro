@@ -130,11 +130,22 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
     <td><b class="tech-name"> 1️⃣ 💻 VSCode </b><span class="underline"></span></td>
     <td><b class="tech-name"> 2️⃣ 🎮 Visual Studio </b><span class="underline"></span></td>
     <td><b class="tech-name"> 3️⃣ 💻 Unity </b><span class="underline"></span></td>
+   <td><b class="tech-name"> 4️⃣ ⚙️ Git / GitHub </b><span class="underline"></span></td>
 </tr>
 <tr>
     <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60px"></a></td>
     <td><a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60px"></a></td>
     <td><a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60px"></a></td>
+       <td>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px" alt="Git">
+  </a>
+  <a href="https://desktop.github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60px" alt="GitHub Desktop">
+  </a>
+</td>
+
+
 </tr>
 </table>
 
