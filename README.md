@@ -116,12 +116,25 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 <tr>
     <td><b class="tech-name"> 1️⃣ 🐳 Docker </b><span class="underline"></span></td>
     <td><b class="tech-name"> 2️⃣ 📮 Postman </b><span class="underline"></span></td>
+     <td><b class="tech-name"> 3️⃣ ⚙️ SSMS  </b><span class="underline"></span></td>
 </tr>
 <tr>
     <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px"></a></td>
     <td><a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60px"></a></td>
+    
+<td>
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank">
+    <img src="https://www.svgrepo.com/show/484232/database.svg" width="60px" />
+  </a>
+</td>
+
+
 </tr>
+
 </table>
+
+
+
 
 # 💻 Editors and Development Tools
 
