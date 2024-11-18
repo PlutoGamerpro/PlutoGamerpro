@@ -9,13 +9,14 @@
 [![](https://visitcount.itsvg.in/api?id=PlutoGamerpro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
 ## Table of Contents
 
 - [💫 About Me](#-about-me)
-- [💻 Frameworks and Tech Stack](#-frameworks-and-tech-stack)
-- [💻 Learning Developer](#-learning-developer)
+- [⚙️ Backend](#-backend)
+- [🗄️ Databases](#-databases) 
+- [📚 Currently Learning](#-currently-learning)
 - [🚀 DevOps tools and programs](#-devops-tools-and-programs)
+- [🖥️ Editors and Development Tools](#-editors-and-development-tools)
 - [💪 Strengths](#-strengths)
 - [📊 My Coding Languages](#-my-coding-languages)
 - [🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
@@ -65,58 +66,78 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 
 
 
-# 💻 Frameworks And Tech Stack
-
+# 💻 Backend
 <table>
 <tr>
-    <td><b class="tech-name"> 1️⃣ 🎮Unity</b><span class="underline"></span></td>
-    <td><b class="tech-name"> 2️⃣ 🧑‍💻C#</b><span class="underline"></span></td>
-     <td><b class="tech-name"> 3️⃣ 🌐.NET</b><span class="underline"></span></td>
-    <td><b class="tech-name"> 4️⃣ 🐬MS SQL</b><span class="underline"></span></td>
-        <td><b class="tech-name"> 5️⃣ 🐍Pythoon</b><span class="underline"></span></td>
-        
-   </tr>
-    <td><a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60px"></a></td>
-       <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"></a></td>
-           <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
-             <td><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></a></td>
-       <td><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px"></a></td>
-   
-
-    
-  </tr>
+    <td><b class="tech-name"> 1️⃣ 🌐 .NET </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 2️⃣ 🧑‍💻 C# </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 3️⃣ 🐍 Python </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 4️⃣ 📝 SQL Queries </b><span class="underline"></span></td>
+</tr>
+<tr>
+    <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
+    <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"></a></td>
+    <td><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px"></a></td>
+    <td><a href="https://www.sqlshack.com/sql-queries/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px"></a></td>
+</tr>
 </table>
 
-# 💻 Learning Developer 
+# 💾 Databases
+
 <table>
 <tr>
-      <td><b class="tech-name"> 1️⃣ 💻JavaScript</b><span class="underline"></span></td>
-        <td><b class="tech-name"> 2️⃣ 📝HTML</b><span class="underline"></span></td>
-        <td><b class="tech-name"> 3️⃣ 🎨CSS</b><span class="underline"></span></td>
-    <td><b class="tech-name"> 4️⃣ 📮Postman</b><span class="underline"></span></td>
-   
-   
-  </tr>
-     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"></a>
-       <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"></a></td>
+    <td><b class="tech-name"> 1️⃣ 🐬 MS SQL </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 2️⃣ 🐱 MongoDB </b><span class="underline"></span></td>
+</tr>
+<tr>
+    <td><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></a></td>
+    <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60px"></a></td>
+</tr>
+</table>
+
+# 📚 Currently Learning
+
+<table>
+<tr>
+    <td><b class="tech-name"> 1️⃣ 💻 JavaScript </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 2️⃣ 📝 HTML </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 3️⃣ 🎨 CSS </b><span class="underline"></span></td>
+</tr>
+<tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"></a></td>
-    <td><a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60px"></a></td>
-    </td>
-  </tr>
+</tr>
 </table>
 
+# 🚀 DevOps Tools and Programs
 
-
-
-# 🚀 DevOps tools and programs:
 <table>
-  <tr>
-    <td><b class="tech-name"> 1️⃣ 🐳 Docker</b><span class="underline"></span></td>
-  </tr>
-    <tr>
-        <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px"></a></td>
-     </tr>
-  </table>
+<tr>
+    <td><b class="tech-name"> 1️⃣ 🐳 Docker </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 2️⃣ 📮 Postman </b><span class="underline"></span></td>
+</tr>
+<tr>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px"></a></td>
+    <td><a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60px"></a></td>
+</tr>
+</table>
+
+# 💻 Editors and Development Tools
+
+<table>
+<tr>
+    <td><b class="tech-name"> 1️⃣ 💻 VSCode </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 2️⃣ 🎮 Visual Studio </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 3️⃣ 💻 Unity </b><span class="underline"></span></td>
+</tr>
+<tr>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60px"></a></td>
+    <td><a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60px"></a></td>
+    <td><a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60px"></a></td>
+</tr>
+</table>
+
 
 
 
