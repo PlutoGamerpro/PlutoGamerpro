@@ -15,7 +15,7 @@
 - [⚙️ Backend](#-backend)
 - [🗄️ Databases](#-databases) 
 - [📚 Currently Learning](#-currently-learning)
-- [🚀 DevOps tools and programs](#-devops-tools-and-programs)
+- [🚀 DevOps Tools](#-devops-tools)
 - [🖥️ Editors and Development Tools](#-editors-and-development-tools)
 - [💪 Strengths](#-strengths)
 - [📊 My Coding Languages](#-my-coding-languages)
@@ -110,7 +110,7 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 </tr>
 </table>
 
-# 🚀 DevOps Tools and Programs
+# 🚀 DevOps Tools 
 
 <table>
 <tr>
