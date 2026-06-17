@@ -20,8 +20,8 @@
 - [💪 Strengths](#-strengths)
 - [📊 My Coding Languages](#-my-coding-languages)
 - [🍉 Fruit Switch: A Colorful Challenge](#-fruit-switch-a-colorful-challenge)
-- [🌐 Fruit Switch Social Media](#-fruit-switch-social-media)
-- [📚 Code-By-Script Tutorials Social Media](#-code-by-script-tutorials)
+
+
 
 
 
@@ -214,26 +214,6 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 | 1️⃣ <img src="https://www.svgrepo.com/show/405466/flag-for-flag-denmark.svg" alt="Danish Flag" style="width:20px; height:20px;"> DK **Danish**    | Native speaker                                     |
 | 2️⃣ <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English Flag" style="width:20px; height:20px;"> US **English**   | Conversational Proficiency                        |
 | 3️⃣ <img src="https://www.svgrepo.com/show/405610/flag-for-flag-spain.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> ES **Spanish**| Basic conversational skills, not fluent     
-
-
-##  🌐 Fruit Switch Social Media:       
-| **1️⃣Steam** | **2️⃣Twitter** | **3️⃣YouTube** |
-|-----------|-------------|--------------|
-| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitchTeam)
-
-## 📚 Code-By-Script Tutorials:
-| **1️⃣Youtube** | 
-|-----------|
- [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
-
-
-
-
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 
 ---
 
