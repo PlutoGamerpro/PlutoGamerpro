@@ -213,7 +213,7 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 |---------------|----------------------------------------------------|
 | 1️⃣ <img src="https://www.svgrepo.com/show/405466/flag-for-flag-denmark.svg" alt="Danish Flag" style="width:20px; height:20px;"> DK **Danish**    | Native speaker                                     |
 | 2️⃣ <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English Flag" style="width:20px; height:20px;"> US **English**   | Conversational Proficiency                        |
-| 3️⃣ <img src="https://www.svgrepo.com/show/405610/flag-for-flag-spain.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> BR **Spanish**| Basic conversational skills, not fluent     
+| 3️⃣ <img src="https://www.svgrepo.com/show/405610/flag-for-flag-spain.svg" alt="Brazilian Flag" style="width:20px; height:20px;"> ES **Spanish**| Basic conversational skills, not fluent     
 
 
 ##  🌐 Fruit Switch Social Media:       
