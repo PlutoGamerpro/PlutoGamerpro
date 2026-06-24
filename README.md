@@ -39,7 +39,7 @@ I've organized my work into categories, each containing projects related to diff
 - **[📝 UML Tasks](https://github.com/stars/PlutoGamerpro/lists/uml-opgaver)**
 
 
-**You can explore all my projects 📝 and discover more of my work by visiting my 📝 [Projects](https://github.com/PlutoGamerpro?tab=stars), where I have organized my repositories into various categories!**
+**You can explore most of my projects 📝 and discover more of my work by visiting my 📝 [Projects](https://github.com/PlutoGamerpro?tab=stars), where I have organized my repositories into various categories!**
 
 ## 📢 Note
 
