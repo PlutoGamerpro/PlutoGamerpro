@@ -14,7 +14,6 @@
 - [💫 About Me](#-about-me)
 - [⚙️ Backend](#-backend)
 - [🗄️ Databases](#-databases) 
-- [📚 Currently Learning](#-currently-learning)
 - [🚀 DevOps Tools](#-devops-tools)
 - [🖥️ Editors and Development Tools](#-editors-and-development-tools)
 - [💪 Strengths](#-strengths)
@@ -53,15 +52,14 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 
 - 👋 **Creator of [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)** 🍉🍊
 - 🎮 **Passionate about coding & game development**
-- 💻 Passionate about coding & game development
 - 📚 Providing tutorials for fellow learners [Code-By-Script](https://www.youtube.com/@CodeByScript)   
 - 🏃‍♂️ Runner with Team R, Sparta’s sub-elite
 - 🌱 Always eager to learn new technologies
 
 
 🔗 Check out my Steam page here: [Fruit Switch Steam](https://store.steampowered.com/app/2248480/Fruit_Switch/)<br>
-🔭 Currently working on Fruit Switch! Follow my journey on YouTube: [Fruit Switch Youtube](https://www.youtube.com/@FruitSwitchTeam)<br>
-🎉 Fun Fact: My game is almost ready for release!
+🔭 Currently working on new AI Sass program <br>
+🎉 Fun Fact: My AI Sass program is almost ready for release!
 
 
 
@@ -70,15 +68,38 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 <tr>
     <td><b class="tech-name"> 1️⃣ 🌐 .NET </b><span class="underline"></span></td>
     <td><b class="tech-name"> 2️⃣ 🧑‍💻 C# </b><span class="underline"></span></td>
-    <td><b class="tech-name"> 3️⃣ 🐍 Python </b><span class="underline"></span></td>
-    <td><b class="tech-name"> 4️⃣ 📝 SQL Queries </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 3️⃣ 📘  Typescript </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 4️⃣ 🐍 Python </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 5️⃣ 📝 SQL Queries </b><span class="underline"></span></td>
 </tr>
-<tr>
-    <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
-    <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"></a></td>
-    <td><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px"></a></td>
-    <td><a href="https://www.sqlshack.com/sql-queries/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px"></a></td>
+<tr align="center">
+    <td>
+        <a href="https://dotnet.microsoft.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="60px">
+        </a>
+    </td>
+    <td>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60px">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.python.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.sqlshack.com/sql-queries/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px">
+        </a>
+    </td>
 </tr>
+</table>
 </table>
 
 # 💾 Databases
@@ -87,27 +108,26 @@ The code for **Fruit Switch** is proprietary, but you can experience the game on
 <tr>
     <td><b class="tech-name"> 1️⃣ 🐬 MS SQL </b><span class="underline"></span></td>
     <td><b class="tech-name"> 2️⃣ 🐱 MongoDB </b><span class="underline"></span></td>
+    <td><b class="tech-name"> 3️⃣ 🐘 PostgreSQ </b><span class="underline"></span></td>
 </tr>
-<tr>
-    <td><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></a></td>
-    <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60px"></a></td>
-</tr>
+ <td>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60px">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.mongodb.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.postgresql.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60px">
+        </a>
+    </td>
 </table>
 
-# 📚 Currently Learning
 
-<table>
-<tr>
-    <td><b class="tech-name"> 1️⃣ 💻 JavaScript </b><span class="underline"></span></td>
-    <td><b class="tech-name"> 2️⃣ 📝 HTML </b><span class="underline"></span></td>
-    <td><b class="tech-name"> 3️⃣ 🎨 CSS </b><span class="underline"></span></td>
-</tr>
-<tr>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px"></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px"></a></td>
-</tr>
-</table>
 
 # 🚀 DevOps Tools 
 
